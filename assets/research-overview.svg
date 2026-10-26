@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="470" viewBox="0 0 1200 470" role="img" aria-labelledby="title desc">
+<title id="title">Software-Agent Delegation and Reliability</title>
+<desc id="desc">A research case study moving from observed outcome disagreements to an evaluator audit and a prospective retry control. Thirty tasks, ninety fixed handoffs, and two hundred seventy follow-up Developer executions.</desc>
+<rect width="1200" height="470" rx="22" fill="#101e32"/>
+<rect x="38" y="38" width="5" height="61" rx="2" fill="#65dfc2"/>
+<g font-family="Arial, Helvetica, sans-serif">
+<text x="62" y="58" font-size="13" font-weight="700" letter-spacing="2" fill="#65dfc2">INDEPENDENT RESEARCH · AGENT EVALUATION</text>
+<text x="62" y="105" font-size="36" font-weight="700" fill="#ffffff">Software-Agent Delegation &amp; Reliability</text>
+<text x="62" y="144" font-size="20" fill="#b7c9df">A case study in measurement, controls, and uncertainty.</text>
+<rect x="62" y="181" width="260" height="75" rx="12" fill="#1c304a"/>
+<text x="82" y="215" font-size="27" font-weight="700" fill="#ffffff">30</text><text x="82" y="240" font-size="15" fill="#b7c9df">software-repair tasks</text>
+<rect x="342" y="181" width="260" height="75" rx="12" fill="#1c304a"/>
+<text x="362" y="215" font-size="27" font-weight="700" fill="#ffffff">90</text><text x="362" y="240" font-size="15" fill="#b7c9df">fixed Planner handoffs</text>
+<rect x="622" y="181" width="516" height="75" rx="12" fill="#1c304a"/>
+<text x="642" y="215" font-size="27" font-weight="700" fill="#ffffff">270</text><text x="642" y="240" font-size="15" fill="#b7c9df">fresh Developer executions in the prospective follow-up</text>
+<line x1="62" y1="290" x2="1138" y2="290" stroke="#35506c"/>
+<text x="62" y="329" font-size="13" font-weight="700" letter-spacing="1.5" fill="#65dfc2">01  OBSERVE</text>
+<text x="62" y="358" font-size="18" fill="#ffffff">Outcome disagreement</text>
+<text x="62" y="384" font-size="15" fill="#b7c9df">A clue, not a causal diagnosis</text>
+<path d="M355 348h35m-8-6 8 6-8 6" fill="none" stroke="#65dfc2" stroke-width="2"/>
+<text x="432" y="329" font-size="13" font-weight="700" letter-spacing="1.5" fill="#65dfc2">02  AUDIT</text>
+<text x="432" y="358" font-size="18" fill="#ffffff">What do the tests measure?</text>
+<text x="432" y="384" font-size="15" fill="#b7c9df">Check validity before interpretation</text>
+<path d="M756 348h35m-8-6 8 6-8 6" fill="none" stroke="#65dfc2" stroke-width="2"/>
+<text x="831" y="329" font-size="13" font-weight="700" letter-spacing="1.5" fill="#65dfc2">03  CONTROL</text>
+<text x="831" y="358" font-size="18" fill="#ffffff">Source attachment vs. retry</text>
+<text x="831" y="384" font-size="15" fill="#b7c9df">Test the alternative explanation</text>
+<text x="62" y="438" font-size="14" fill="#90a9c4">Research portfolio · completed study · reproducible derived results · not peer reviewed</text>
+</g></svg>

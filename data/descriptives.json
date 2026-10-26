@@ -1,0 +1,72 @@
+{
+  "scope": "Prespecified secondary descriptions; no new tests or confidence intervals. Successful response count is not a direct tool-step count.",
+  "by_role": {
+    "B0": {
+      "n": 90,
+      "exit_reasons": {
+        "context_limit": 1,
+        "agent": 85,
+        "max_step_limit": 4
+      },
+      "input_tokens_total": 16636954,
+      "output_tokens_total": 704740,
+      "median_elapsed_seconds": 60.245422000000005,
+      "median_successful_model_responses": 15.5,
+      "empty_nonempty": {
+        "empty": {
+          "n": 7,
+          "joint_successes": 1
+        },
+        "nonempty": {
+          "n": 83,
+          "joint_successes": 62
+        }
+      }
+    },
+    "B1": {
+      "n": 90,
+      "exit_reasons": {
+        "agent": 86,
+        "max_step_limit": 3,
+        "context_limit": 1
+      },
+      "input_tokens_total": 16508941,
+      "output_tokens_total": 700174,
+      "median_elapsed_seconds": 61.203706,
+      "median_successful_model_responses": 15.0,
+      "empty_nonempty": {
+        "empty": {
+          "n": 7,
+          "joint_successes": 1
+        },
+        "nonempty": {
+          "n": 83,
+          "joint_successes": 65
+        }
+      }
+    },
+    "C": {
+      "n": 90,
+      "exit_reasons": {
+        "context_limit": 1,
+        "agent": 87,
+        "agent_max_step_limit": 1,
+        "max_step_limit": 1
+      },
+      "input_tokens_total": 16834827,
+      "output_tokens_total": 760386,
+      "median_elapsed_seconds": 67.9528955,
+      "median_successful_model_responses": 16.5,
+      "empty_nonempty": {
+        "empty": {
+          "n": 7,
+          "joint_successes": 4
+        },
+        "nonempty": {
+          "n": 83,
+          "joint_successes": 62
+        }
+      }
+    }
+  }
+}

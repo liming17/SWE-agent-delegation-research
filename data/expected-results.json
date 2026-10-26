@@ -1,0 +1,82 @@
+{
+  "status": "complete prospective fixed-handoff-bank study",
+  "primary": {
+    "task_mean_difference": 1.8503717077085942e-18,
+    "task_bootstrap_95_ci": [
+      -0.07777777777777778,
+      0.08888888888888889
+    ],
+    "tasks": 30
+  },
+  "secondary_full_sample": {
+    "functional": {
+      "task_mean_difference": 1.8503717077085942e-18,
+      "task_bootstrap_95_ci": [
+        -0.08888888888888888,
+        0.1
+      ],
+      "tasks": 30
+    },
+    "constraint": {
+      "task_mean_difference": 0.0,
+      "task_bootstrap_95_ci": [
+        -0.04444444444444444,
+        0.04444444444444444
+      ],
+      "tasks": 30
+    },
+    "original_joint": {
+      "task_mean_difference": 1.8503717077085942e-18,
+      "task_bootstrap_95_ci": [
+        -0.06666666666666667,
+        0.08888888888888889
+      ],
+      "tasks": 30
+    }
+  },
+  "secondary_screened": {
+    "screening_rule": "B0 revised joint failure only",
+    "blocks": 27,
+    "tasks": 11,
+    "B1_success": 3,
+    "C_success": 4,
+    "task_mean_C_minus_B1": 0.045454545454545456,
+    "task_bootstrap_95_ci": [
+      -0.2727272727272727,
+      0.36363636363636365
+    ]
+  },
+  "same_handoff_repeat_discordance": {
+    "B0_pass_B1_fail": 0,
+    "B0_fail_B1_pass": 3
+  },
+  "counts": {
+    "B0": {
+      "joint": 63,
+      "functional": 73,
+      "constraint": 71,
+      "original_joint": 54
+    },
+    "B1": {
+      "joint": 66,
+      "functional": 77,
+      "constraint": 71,
+      "original_joint": 58
+    },
+    "C": {
+      "joint": 66,
+      "functional": 77,
+      "constraint": 71,
+      "original_joint": 58
+    }
+  },
+  "budget": {
+    "cap_nusd": 50000000000,
+    "accounted_nusd": 22725635100,
+    "halt": null,
+    "model": "deepseek-flash",
+    "requests": 4963,
+    "unresolved": 0
+  },
+  "limitations": "Existing 30-task/90-handoff bank; one current model alias. Not an exact historical-backend replication. Conditional contrasts secondary; no individual causal attribution. Original and revised test proxies remain finite."
+}

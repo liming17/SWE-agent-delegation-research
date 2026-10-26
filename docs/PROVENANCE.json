@@ -1,0 +1,83 @@
+{
+  "scope": "Curated portfolio presentation; scientific outcomes unchanged. Original research Git history not included.",
+  "source_workspace_commit": "d8d7786",
+  "sources": {
+    "README.md": {
+      "source": "README.md",
+      "source_sha256": "5046e7be4407f619ab430b67398f1d9a3efad079c92cd9d2d49ea4b9e13850f0",
+      "presentation_links_rewritten": true
+    },
+    "assets/research-overview.svg": {
+      "source": "assets/research-overview.svg",
+      "source_sha256": "eda9140e0cb79e276223c8a626358ad0ce016988019d1827b02aca1cce85d812",
+      "presentation_links_rewritten": false
+    },
+    "docs/methods.md": {
+      "source": "docs/portfolio/methods.md",
+      "source_sha256": "5e70b6a8f11f43a1f2f05418e2d881d4f4c1f28222598c5577214eb4b6406bc3",
+      "presentation_links_rewritten": true
+    },
+    "docs/research-journey.md": {
+      "source": "docs/portfolio/research-journey.md",
+      "source_sha256": "0a2c50bf941d26ee7b6024bff602d2da336d8ce6e8093d5ab9adbe1448c90054",
+      "presentation_links_rewritten": true
+    },
+    "docs/results.md": {
+      "source": "docs/portfolio/results.md",
+      "source_sha256": "58c86768a2a84f8c12ca1dbc443257a192d654b3ae0f80a7e7617fda0943f04f",
+      "presentation_links_rewritten": true
+    },
+    "docs/reflections.md": {
+      "source": "docs/portfolio/reflections.md",
+      "source_sha256": "cef80d35595a1a0e3c854ef3883cd23d7e6d0b611039b5a7aca1f7f5537e8c1e",
+      "presentation_links_rewritten": true
+    },
+    "docs/reproducibility.md": {
+      "source": "docs/portfolio/reproducibility.md",
+      "source_sha256": "774d2695595083ee178e4c30bd6cd54c76b1e67b6a27885f35779202475c3d0b",
+      "presentation_links_rewritten": true
+    },
+    "data/outcomes.csv": {
+      "source": "release/followup-results-v1-review/data/outcomes.csv",
+      "source_sha256": "8fd7a4dc5c17108592af06c5d394a3e86b38e7e8d0e3a5f4ba461aa9d3ff7a53",
+      "presentation_links_rewritten": false
+    },
+    "data/expected-results.json": {
+      "source": "release/followup-results-v1-review/data/expected-results.json",
+      "source_sha256": "1bf858488ff35b2a469df30c681cf800712ce852cd99e75ccdfd713a9bbacb18",
+      "presentation_links_rewritten": false
+    },
+    "data/accounting.csv": {
+      "source": "release/followup-results-v1-review/data/accounting.csv",
+      "source_sha256": "6cec08a39b7db94747929d84474e8efb88d64201b96b75633e0ffc93d5e76d5c",
+      "presentation_links_rewritten": false
+    },
+    "data/descriptives.json": {
+      "source": "release/followup-results-v1-review/data/descriptives.json",
+      "source_sha256": "a5c4b833c5db26489a64897f986b19392a9be829ded7a55658757f1f79e154b2",
+      "presentation_links_rewritten": false
+    },
+    "data/results-table.csv": {
+      "source": "release/followup-results-v1-review/data/results-table.csv",
+      "source_sha256": "afe1d410c330051fb241723ef72b05eb0b8b985ee88eacebeed0f0a755f34475",
+      "presentation_links_rewritten": false
+    },
+    "scripts/reproduce.py": {
+      "source": "release/followup-results-v1-review/scripts/reproduce.py",
+      "source_sha256": "1fa34fcc1bc2df676dacf0ac17b92dd508fa3b010a3cf0046db46615c5b230be",
+      "presentation_links_rewritten": false
+    },
+    "report/research-report.pdf": {
+      "source": "paper/arxiv/main.pdf",
+      "source_sha256": "f39de4d6ee57c681bba409d30605380365a3192801b390983a12256f8cb7e8f9",
+      "presentation_links_rewritten": false
+    },
+    "docs/frozen-followup-protocol.md": {
+      "source": "formal/followup-anchoring-v1/protocol.md",
+      "source_sha256": "3c3c41468b4401f7473391b45cbf997cf8b496a04be6a13a1221648c65cbc055",
+      "presentation_links_rewritten": false
+    }
+  },
+  "disclosed_AI_assistance": true,
+  "raw_requirements_handoffs_patches_trajectories_and_private_inputs_included": false
+}
